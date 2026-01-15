@@ -1,0 +1,15 @@
+C:\Users\zacha\source\repos\ZaneBlightcaller\COMP1030W2026\Example Code\bin\Debug\net10.0\Example Code.exe
+C:\Users\zacha\source\repos\ZaneBlightcaller\COMP1030W2026\Example Code\bin\Debug\net10.0\Example Code.deps.json
+C:\Users\zacha\source\repos\ZaneBlightcaller\COMP1030W2026\Example Code\bin\Debug\net10.0\Example Code.runtimeconfig.json
+C:\Users\zacha\source\repos\ZaneBlightcaller\COMP1030W2026\Example Code\bin\Debug\net10.0\Example Code.dll
+C:\Users\zacha\source\repos\ZaneBlightcaller\COMP1030W2026\Example Code\bin\Debug\net10.0\Example Code.pdb
+C:\Users\zacha\source\repos\ZaneBlightcaller\COMP1030W2026\Example Code\obj\Debug\net10.0\Example Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zacha\source\repos\ZaneBlightcaller\COMP1030W2026\Example Code\obj\Debug\net10.0\Example Code.AssemblyInfoInputs.cache
+C:\Users\zacha\source\repos\ZaneBlightcaller\COMP1030W2026\Example Code\obj\Debug\net10.0\Example Code.AssemblyInfo.cs
+C:\Users\zacha\source\repos\ZaneBlightcaller\COMP1030W2026\Example Code\obj\Debug\net10.0\Example Code.csproj.CoreCompileInputs.cache
+C:\Users\zacha\source\repos\ZaneBlightcaller\COMP1030W2026\Example Code\obj\Debug\net10.0\Example Code.sourcelink.json
+C:\Users\zacha\source\repos\ZaneBlightcaller\COMP1030W2026\Example Code\obj\Debug\net10.0\Example Code.dll
+C:\Users\zacha\source\repos\ZaneBlightcaller\COMP1030W2026\Example Code\obj\Debug\net10.0\refint\Example Code.dll
+C:\Users\zacha\source\repos\ZaneBlightcaller\COMP1030W2026\Example Code\obj\Debug\net10.0\Example Code.pdb
+C:\Users\zacha\source\repos\ZaneBlightcaller\COMP1030W2026\Example Code\obj\Debug\net10.0\Example Code.genruntimeconfig.cache
+C:\Users\zacha\source\repos\ZaneBlightcaller\COMP1030W2026\Example Code\obj\Debug\net10.0\ref\Example Code.dll
