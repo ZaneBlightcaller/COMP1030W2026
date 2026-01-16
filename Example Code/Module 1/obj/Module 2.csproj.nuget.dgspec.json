@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zacha\\source\\repos\\ZaneBlightcaller\\COMP1030W2026\\Module 1\\Module 2.csproj": {}
+    "C:\\Users\\zacha\\source\\repos\\ZaneBlightcaller\\COMP1030W2026\\Example Code\\Module 1\\Module 2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zacha\\source\\repos\\ZaneBlightcaller\\COMP1030W2026\\Module 1\\Module 2.csproj": {
+    "C:\\Users\\zacha\\source\\repos\\ZaneBlightcaller\\COMP1030W2026\\Example Code\\Module 1\\Module 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zacha\\source\\repos\\ZaneBlightcaller\\COMP1030W2026\\Module 1\\Module 2.csproj",
+        "projectUniqueName": "C:\\Users\\zacha\\source\\repos\\ZaneBlightcaller\\COMP1030W2026\\Example Code\\Module 1\\Module 2.csproj",
         "projectName": "Module 2",
-        "projectPath": "C:\\Users\\zacha\\source\\repos\\ZaneBlightcaller\\COMP1030W2026\\Module 1\\Module 2.csproj",
+        "projectPath": "C:\\Users\\zacha\\source\\repos\\ZaneBlightcaller\\COMP1030W2026\\Example Code\\Module 1\\Module 2.csproj",
         "packagesPath": "C:\\Users\\zacha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zacha\\source\\repos\\ZaneBlightcaller\\COMP1030W2026\\Module 1\\obj\\",
+        "outputPath": "C:\\Users\\zacha\\source\\repos\\ZaneBlightcaller\\COMP1030W2026\\Example Code\\Module 1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
