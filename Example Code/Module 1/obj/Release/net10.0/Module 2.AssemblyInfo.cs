@@ -12,9 +12,9 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("Module 2")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d00cfe4a05956f3089915681f1780abfc96eb92")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34fa34132cdb64d0ca6b9ef0c14001d181b24514")]
 [assembly: System.Reflection.AssemblyProductAttribute("Module 2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Module 2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
