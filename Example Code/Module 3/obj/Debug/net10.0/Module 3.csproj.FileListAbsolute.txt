@@ -3,3 +3,13 @@ C:\Users\zacha\source\repos\ZaneBlightcaller\COMP1030W2026\Example Code\Module 3
 C:\Users\zacha\source\repos\ZaneBlightcaller\COMP1030W2026\Example Code\Module 3\obj\Debug\net10.0\Module 3.AssemblyInfo.cs
 C:\Users\zacha\source\repos\ZaneBlightcaller\COMP1030W2026\Example Code\Module 3\obj\Debug\net10.0\Module 3.csproj.CoreCompileInputs.cache
 C:\Users\zacha\source\repos\ZaneBlightcaller\COMP1030W2026\Example Code\Module 3\obj\Debug\net10.0\Module 3.sourcelink.json
+C:\Users\zacha\source\repos\ZaneBlightcaller\COMP1030W2026\Example Code\Module 3\bin\Debug\net10.0\Module 3.exe
+C:\Users\zacha\source\repos\ZaneBlightcaller\COMP1030W2026\Example Code\Module 3\bin\Debug\net10.0\Module 3.deps.json
+C:\Users\zacha\source\repos\ZaneBlightcaller\COMP1030W2026\Example Code\Module 3\bin\Debug\net10.0\Module 3.runtimeconfig.json
+C:\Users\zacha\source\repos\ZaneBlightcaller\COMP1030W2026\Example Code\Module 3\bin\Debug\net10.0\Module 3.dll
+C:\Users\zacha\source\repos\ZaneBlightcaller\COMP1030W2026\Example Code\Module 3\bin\Debug\net10.0\Module 3.pdb
+C:\Users\zacha\source\repos\ZaneBlightcaller\COMP1030W2026\Example Code\Module 3\obj\Debug\net10.0\Module 3.dll
+C:\Users\zacha\source\repos\ZaneBlightcaller\COMP1030W2026\Example Code\Module 3\obj\Debug\net10.0\refint\Module 3.dll
+C:\Users\zacha\source\repos\ZaneBlightcaller\COMP1030W2026\Example Code\Module 3\obj\Debug\net10.0\Module 3.pdb
+C:\Users\zacha\source\repos\ZaneBlightcaller\COMP1030W2026\Example Code\Module 3\obj\Debug\net10.0\Module 3.genruntimeconfig.cache
+C:\Users\zacha\source\repos\ZaneBlightcaller\COMP1030W2026\Example Code\Module 3\obj\Debug\net10.0\ref\Module 3.dll

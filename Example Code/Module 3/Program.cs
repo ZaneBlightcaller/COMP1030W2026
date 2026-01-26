@@ -193,15 +193,15 @@
              * the item name, and the price. We will need to convert the price to a string. */
 
             int item1NumChar = item1.Length;
-            string price1String = price1.ToString();
+            string price1String = "$" + price1.ToString();
             int price1NumChar = price1String.Length;
 
             int item2NumChar = item1.Length;
-            string price2String = price2.ToString();
+            string price2String = "$" + price2.ToString();
             int price2NumChar = price2String.Length;
 
             int item3NumChar = item3.Length;
-            string price3String = price3.ToString();
+            string price3String = "$" + price3.ToString();
             int price3NumChar = price3String.Length;
 
             int line1NumChar = item1NumChar + price1NumChar;
@@ -227,32 +227,38 @@
 
 
             /* STEP 14: Calculate the subtotal */
-            double subtTotal = price1 + price2 + price3;
+            double subTotal = price1 + price2 + price3;
 
 
 
             /* STEP 15: Calculate the tax */
-            double Tax = subtTotal * 0.13;
-            double total = subtTotal + Tax;
-
-
-
-
+            double Tax = subTotal * 0.13;
+            double total = subTotal + Tax;
 
             /* STEP 16: Output the food items (include new line characters where needed) */
 
-
+            Console.Clear();
+            Console.WriteLine("Thanks for shopping at C#Mart");
+            Console.WriteLine($"{item1}{line1dotLeader}{price1String}");
+            Console.WriteLine($"{item1}{line2dotLeader}{price2String}");
+            Console.WriteLine($"{item1}{line3dotLeader}{price3String}");
             /* STEP 17: Output the subtotal */
-
+            Console.WriteLine("------------------------------");
+            Console.WriteLine($"SUBTOTAL                 {subTotal}");
 
             /* STEP 18: Output the tax - format it as a string with 2 decimal places */
-
+            Console.WriteLine($"TAX                          ${String.Format("{0:0.##}",Tax)}");
 
             /* STEP 19: Output the total of the receipt (also formatted with 2 decimal places */
 
+            Console.WriteLine($"TAX                          ${String.Format("{0:0.##}", total)}");
 
 
             /* STEP 20: Output the method of payment in ALL CAPS, and the amount paid */
+            Console.WriteLine("The method of payment: " + methodOfPayment);
+            string finalPaymentmethod = methodOfPayment.ToUpper();
+
+            Console.WriteLine($"Payment method :{finalPaymentmethod}, amount paid :{total:0.##}");
         }
     }
 }
